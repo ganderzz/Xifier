@@ -6,6 +6,8 @@ ModX Code Minifier Snippet
 ModX snippet that concatenates all files specified in the script attribute, and minifies code not excluded with a ! symbol. Minification at this moment removes all comments and white space in the file.
 
 
+
+------
 Example:
 
 	<script>
